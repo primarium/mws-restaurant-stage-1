@@ -78,7 +78,8 @@ nav h1 a {
 
 /* Display list items side by side */
 #breadcrumb li {
-    display: inline;
+	display: inline;
+	font-size: 1.5em;
 }
 
 /* Add a slash symbol (/) before/behind each list item */
@@ -91,7 +92,7 @@ nav h1 a {
 /* Add a color to all links inside the list */
 #breadcrumb li a {
     color: #0275d8;
-    text-decoration: none;
+	text-decoration: none;
 }
 
 /* Add a color on mouse-over */
